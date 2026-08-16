@@ -1,6 +1,14 @@
 # 🌍 03. حاضنة بلقان-خليج للابتكار وريادة الأعمال النسائية
 ## إطار الاستثمار العابر للقارات، مسارات التجارة الرقمية، ومسرّعة مشاريع التقنيات المساعدة
 
+---
+
+<p align="center">
+  <img src="./03_balkan_gulf_hub.png" alt="03_balkan_gulf_hub" width="1200">
+</p>
+
+---
+
 مرحباً بك في المجلد المخصص لـ **حاضنة بلقان-خليج للابتكار وريادة الأعمال النسائية**. توظيفاً للبُعد التاريخي، المعرفي، والدبلوماسي العريق لأسرة الثنيان الكريمة، تعمل هذه الحاضنة كجسر يربط بين الشركات الناشئة والمبتكرات في المحيط العربي (الخليج واليمن) مع الأسواق الأوروبية ومنطقة البلقان، مع وضع أولوية استراتيجية لتسريع المشاريع التي تطور **التقنيات المساعدة (Assistive Technology)** لخدمة ذوي متلازمة داون وذوي الإعاقة.
 
 ---
@@ -58,6 +66,14 @@
 
 # 🌍 03. Balkan-Gulf Innovation & Female Entrepreneurship Hub
 ## Transcontinental Investment Framework, Digital Trade Routes, and Assistive Tech Venture Acceleration
+
+---
+
+<p align="center">
+  <img src="./03_balkan_gulf_hub.png" alt="03_balkan_gulf_hub" width="1200">
+</p>
+
+---
 
 Welcome to the dedicated module for the **Balkan-Gulf Innovation & Female Entrepreneurship Hub**. Utilizing the historic intellectual, cultural, and diplomatic heritage of the Al-Thunayan family, this hub acts as a bridge connecting female-led startups and innovators in the Arab region (Gulf & Yemen) with European and Balkan markets. It places a strategic priority on accelerating ventures that develop **Assistive Technologies** for individuals with Down Syndrome and other disabilities.
 
