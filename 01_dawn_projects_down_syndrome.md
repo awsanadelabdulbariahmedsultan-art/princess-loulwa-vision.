@@ -1,6 +1,12 @@
 # 🌅 01. منظومة مشاريع الفجر ودمج ذوي متلازمة داون
 ## DAWN Projects Portfolio & Down Syndrome Technical Framework
+---
 
+<p align="center">
+  <img src="./01_dawn_projects_down_syndrome.png" alt="01_dawn_projects_down_syndrome" width="1200">
+</p>
+
+---
 مرحباً بك في المجلد المخصص لتطوير الحلول البرمجية، التقنيات المساعدة (Assistive Technology)، والمنظومات الهندسية الموجهة لدعم وتأهيل ذوي **متلازمة داون (Down Syndrome)** ودمجهم التعليمي والمهني، تماشياً مع الرؤية الإنسانية والتنموية للأميرة لولوة الفيصل.
 
 ---
@@ -64,7 +70,13 @@
 
 # 🌅 01. DAWN Projects Portfolio & Down Syndrome Technical Framework
 ## Assistive Technology, AI Solutions, and Inclusive Engineering Specification
+---
 
+<p align="center">
+  <img src="./01_dawn_projects_down_syndrome.png" alt="01_dawn_projects_down_syndrome" width="1200">
+</p>
+
+---
 Welcome to the dedicated module for developing software solutions, assistive technologies, and engineering frameworks aimed at supporting, rehabilitating, and integrating individuals with **Down Syndrome** into education and the workforce. This framework directly reflects the humanitarian and developmental vision of Princess Loulwa Al-Faisal.
 
 ---
