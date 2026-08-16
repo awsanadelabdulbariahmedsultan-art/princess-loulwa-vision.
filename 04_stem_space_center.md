@@ -1,6 +1,14 @@
 # 🤖 04. المركز الإقليمي لأبحاث الفضاء والذكاء الاصطناعي (STEM) للمرأة
 ## المواصفات الفنية، مسارات هندسة الفضاء، نماذج الذكاء الاصطناعي التوليدي، وبنية الأبحاث المهيأة للوصول الشامل
 
+---
+
+<p align="center">
+  <img src="./04_stem_space_center.png" alt="04_stem_space_center" width="1200">
+</p>
+
+---
+
 مرحباً بك في المجلد المخصص لـ **المركز الإقليمي لأبحاث الفضاء والذكاء الاصطناعي (STEM) للمرأة**. مستلهمًا من الدبلوماسية الأكاديمية الدولية للأميرة لولوة الفيصل وتواصلها العميق مع مؤسسات عالمية عريقة مثل جامعة "توكاي" اليابانية وجامعة "سالفورد" البريطانية، يمثل هذا المركز مجمعاً علمياً متقدماً صُمم لتمكين العالمات والباحثات في هندسة الطيران والفضاء، معالجة بيانات الأقمار الصناعية، والذكاء الاصطناعي التوليدي، مع ضمان تهيئة البيئات الرقمية والمادية بالكامل لتكون تكيُّفية وملائمة للباحثات من ذوي الإعاقة والقدرات المختلفة.
 
 ---
@@ -58,6 +66,14 @@
 
 # 🤖 04. Regional STEM & Space Research Center for Women
 ## Technical Specification, Aerospace Pipelines, Generative AI Models, and Accessible Research Infrastructure
+
+---
+
+<p align="center">
+  <img src="./04_stem_space_center.png" alt="04_stem_space_center" width="1200">
+</p>
+
+---
 
 Welcome to the dedicated module for the **Regional STEM & Space Research Center for Women**. Inspired by Princess Loulwa Al-Faisal's international academic diplomacy and deep networking with elite institutions like Japan's Tokai University and the UK's University of Salford, this center serves as an advanced scientific complex designed to empower female scientists in aerospace engineering, satellite data processing, and Generative AI, while ensuring fully accessible and adaptive digital and physical environments for researchers with diverse abilities.
 
