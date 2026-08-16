@@ -1,4 +1,12 @@
 # 👑 منصة الأميرة لولوة الفيصل للابتكار والتنمية
+
+---
+
+<p align="center">
+  <img src="./assets/princess-loulwa-vision.png" alt="princess-loulwa-vision" width="1200">
+</p>
+
+---
 ## مستودع أطر التطوير التنموي، التشبيك الأكاديمي الدولي، ومظلة مشاريع الفجر (DAWN)
 
 ---
@@ -76,6 +84,16 @@
 ---
 
 # 👑 Princess Loulwa Al-Faisal Innovation Hub
+
+---
+
+<p align="center">
+  <img src="./assets/princess-loulwa-vision.png" alt="princess-loulwa-vision" width="1200">
+</p>
+
+
+---
+
 ## Development Framework, International Academic Networking, and DAWN Projects Repository
 
 ---
