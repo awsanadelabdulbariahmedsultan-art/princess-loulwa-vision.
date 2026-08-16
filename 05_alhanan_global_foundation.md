@@ -1,6 +1,14 @@
 # 🧸❤ 05. مؤسسة الحنان العالمية للتربية الخاصة ورعاية الأيتام
 ## مخطط الامتياز التعليمي، أنظمة إدارة الرعاية الذكية، وأطر المناهج التربوية الدامجة
 
+---
+
+<p align="center">
+  <img src="./005_alhanan_global_foundation.png" alt="005_alhanan_global_foundation" width="1200">
+</p>
+
+---
+
 مرحباً بك في المجلد المخصص لـ **مؤسسة الحنان العالمية للتربية الخاصة ورعاية الأيتام**. يستهدف هذا المجلد توسيع ونقل الفلسفة الإنسانية والتعليمية والتاريخية لمدرسة "دار الحنان" العريقة وتحويلها إلى نموذج "امتياز تعليمي دولي (Franchise)". تركز المؤسسة على إنشاء مدارس ومراكز تأهيل ذكية ومتكاملة للأيتام والأطفال من ذوي متلازمة داون في المناطق الإقليمية والنامية (بما في ذلك اليمن)، وتوظيف أطر التعليم المساعد لكسر دائرة العوز والاعتمادية من خلال المعرفة التخصصية.
 
 ---
@@ -57,6 +65,14 @@
 
 # 🧸❤ 05. Al-Hanan Global Foundation for Special Education & Orphan Care
 ## Franchise Blueprint, Smart Care Management Systems, and Inclusive Pedagogical Frameworks
+
+---
+
+<p align="center">
+  <img src="./005_alhanan_global_foundation.png" alt="005_alhanan_global_foundation" width="1200">
+</p>
+
+---
 
 Welcome to the dedicated module for the **Al-Hanan Global Foundation for Special Education & Orphan Care**. This module scales and transforms the historic, humanitarian, and educational philosophy of the legendary "Dar Al-Hanan" school into an international educational franchise model. The foundation focuses on constructing smart schools and integrated rehabilitation hubs for orphans and individuals with Down Syndrome across regional territories (including Yemen), deploying assistive learning frameworks to break the cycle of dependency through specialized knowledge.
 
