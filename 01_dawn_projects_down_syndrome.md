@@ -1,4 +1,4 @@
-# 🌅 01. منظومة مشاريع الفجر ودمج ذوي متلازمة داون
+# 🌅 01. منظومة مشاريع الداون ودمج ذوي متلازمة داون
 ## DAWN Projects Portfolio & Down Syndrome Technical Framework
 ---
 
