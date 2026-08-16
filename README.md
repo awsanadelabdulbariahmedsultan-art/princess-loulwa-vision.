@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/princess-loulwa-vision.png" alt="princess-loulwa-vision" width="1200">
+  <img src="./princess-loulwa-vision.png" alt="princess-loulwa-vision" width="1200">
 </p>
 
 ---
@@ -88,7 +88,7 @@
 ---
 
 <p align="center">
-  <img src="./assets/princess-loulwa-vision.png" alt="princess-loulwa-vision" width="1200">
+  <img src="./princess-loulwa-vision.png" alt="princess-loulwa-vision" width="1200">
 </p>
 
 
