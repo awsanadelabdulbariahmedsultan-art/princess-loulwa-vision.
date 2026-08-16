@@ -1,6 +1,12 @@
 # 💼 02. معهد عفت الإقليمي للقيادة النسائية والدبلوماسية الأكاديمية
 ## الإطار الاستراتيجي، تصميم المناهج التعليمية، وخطة التطوير المؤسسي
+---
 
+<p align="center">
+  <img src="./02_leadership_institute.png" alt="02_leadership_institute" width="1200">
+</p>
+
+---
 مرحباً بك في المجلد المخصص للتخطيط الاستراتيجي، المناهج التعليمية، وأطر السياسات الخاصة بـ **معهد عفت الإقليمي للقيادة النسائية والدبلوماسية الأكاديمية**. مستلهمًا من الجولات الأكاديمية الدولية للأميرة لولوة الفيصل، يمثل هذا المعهد مركزاً نخبويًا لإعداد الجيل القادم من القياديات التنفيذيات، خبيرات السياسات العامة، والمدافعات الدوليين في المنطقة.
 
 ---
@@ -58,6 +64,14 @@
 
 # 💼 02. Effat Regional Institute for Women's Leadership & Academic Diplomacy
 ## Strategic Framework, Curricula Design, and Institutional Development Plan
+
+---
+
+<p align="center">
+  <img src="./02_leadership_institute.png" alt="02_leadership_institute" width="1200">
+</p>
+
+---
 
 Welcome to the dedicated module for the strategic planning, educational curricula, and policy frameworks of the **Effat Regional Institute for Women's Leadership & Academic Diplomacy**. Inspired by Princess Loulwa Al-Faisal’s global academic missions, this institute serves as an elite hub to train next-generation female executives, public policy experts, and international advocates across the region.
 
